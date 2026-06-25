@@ -27,9 +27,6 @@ jobs:
     - name: Install Dependencies
       run: npm install
 
-    - name: Fake Build for Capacitor
-      run: npm run build
-
     - name: Add Android Platform
       run: |
         npx cap add android || true
