@@ -1,9 +1,5 @@
 {
   "appId": "com.mycompany.netlifyapp",
   "appName": "My Netlify App",
-  "webDir": "dist",
-  "server": {
-    "url": "https://reliable-conkies-2154af.netlify.app",
-    "cleartext": true
-  }
+  "webDir": "dist"
 }
