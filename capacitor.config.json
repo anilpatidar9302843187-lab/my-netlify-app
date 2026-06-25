@@ -1,5 +1,6 @@
 {
   "appId": "com.mycompany.netlifyapp",
   "appName": "My Netlify App",
-  "webDir": "dist"
+  "webDir": "."
 }
+
